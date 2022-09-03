@@ -1,16 +1,16 @@
-### Hi there 👋
+<p align="center">
+<img src="https://user-images.githubusercontent.com/105982460/188270248-5c899a00-7da7-4ae7-b5c3-74fb6597b6e2.gif">
+</p>
 
-<!--
-**StevenForsythia/StevenForsythia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>Ciao!~ I'm Steven Forsythia 😶‍🌫️</h1>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<a href="https://github.com/StevenForsythia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenForsythia&theme=radical&layout=compact" />
+</a>
+<a href="https://github.com/StevenForsythia">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StevenForsythia&show_icons=true&theme=radical" />
+</a>
+</div>
