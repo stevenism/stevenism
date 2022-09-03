@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <h1>Ciao!~ I'm Steven Forsythia 🙇</h1>
+  <h1>Ciao!~ I'm Steven Forsythia 😶‍🌫️</h1>
 </div>
 
 <p align="center">
