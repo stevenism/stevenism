@@ -6,7 +6,7 @@
   <h1>Ciao!~ I'm Steven Forsythia 😶‍🌫️</h1>
 </div>
 
-<div align="center">
+<div>
 <a href="https://github.com/StevenForsythia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenForsythia&theme=radical&layout=compact" />
 </a>
