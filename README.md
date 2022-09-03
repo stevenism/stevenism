@@ -6,6 +6,10 @@
   <h1>Ciao!~ I'm Steven Forsythia 😶‍🌫️</h1>
 </div>
 
+<p align="center">
+a passionate and highly curiosity developer who trust zero become hero is real.
+</p>
+
 <div align="center">
   <a href="https://github.com/StevenForsythia">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenForsythia&layout=compact&langs_count=7&theme=dracula"/>
