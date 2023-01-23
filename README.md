@@ -1,11 +1,11 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/105982460/214092130-cb896cdc-1487-47b0-b5c1-320d7a6f3a1c.gif">
+<img src="https://user-images.githubusercontent.com/105982460/214096567-507706ca-caea-4a98-9026-941526a98076.gif">
 </p>
 
 <div align="center">
-
   <h1>Ciao!~ I'm Steven Forsythia 😶‍🌫️</h1>
 </div>
+
 
 <p align="center">
 a passionate junior developer and enthusiastic at challenges. who trust zero become hero is real.
