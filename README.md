@@ -1,8 +1,9 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/105982460/188270248-5c899a00-7da7-4ae7-b5c3-74fb6597b6e2.gif">
+<img src="https://user-images.githubusercontent.com/105982460/214092130-cb896cdc-1487-47b0-b5c1-320d7a6f3a1c.gif">
 </p>
 
 <div align="center">
+
   <h1>Ciao!~ I'm Steven Forsythia 😶‍🌫️</h1>
 </div>
 
