@@ -16,3 +16,5 @@ a passionate junior developer and enthusiastic at challenges. who trust zero bec
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenaruu&layout=compact&langs_count=20&theme=dracula"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=stevenaruu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
