@@ -6,7 +6,6 @@
   <h1>Ciao!~ I'm Steven Forsythia 😶‍🌫️</h1>
 </div>
 
-
 <p align="center">
 a passionate junior developer and enthusiastic at challenges. who trust zero become hero is real.
 </p>
@@ -17,4 +16,6 @@ a passionate junior developer and enthusiastic at challenges. who trust zero bec
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=stevenaruu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![snake gif](https://github.com/stevenaruu/stevenaruu/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <img src="https://github.com/stevenaruu/stevenaruu/blob/output/github-contribution-grid-snake.svg" />
+</div>
