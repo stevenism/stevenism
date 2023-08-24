@@ -12,13 +12,15 @@ a passionate junior developer and enthusiastic at challenges. who trust zero bec
 
 <div align="center">
   <a href="https://github.com/stevenaruu">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenaruu&layout=compact&langs_count=20&theme=dracula"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=stevenaruu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenaruu&layout=compact&langs_count=20"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=stevenaruu&rank_icon=github"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stevenaruu/stevenaruu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stevenaruu/stevenaruu/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/stevenaruu/stevenaruu/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stevenaruu/stevenaruu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stevenaruu/stevenaruu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/stevenaruu/stevenaruu/output/github-contribution-grid-snake.svg">
+  </picture>
+<div/>
 
