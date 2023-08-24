@@ -16,6 +16,9 @@ a passionate junior developer and enthusiastic at challenges. who trust zero bec
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=stevenaruu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github.com/stevenaruu/stevenaruu/blob/output/github-contribution-grid-snake.svg" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
