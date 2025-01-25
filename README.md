@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-a passionate junior developer and enthusiastic at challenges. who trust zero become hero is real.
+A passionate Software Engineer that enthusiastic at challenges. Who trust zero become hero is real.
 </p>
 
 <div align="center">
